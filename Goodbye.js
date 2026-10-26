@@ -1,0 +1,3 @@
+function Goodbye() {
+alert('GoodBye.`);
+}
