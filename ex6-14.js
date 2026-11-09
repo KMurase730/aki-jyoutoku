@@ -1,6 +1,6 @@
 function changePhoto() {
     document.getElementById('myphoto').innerHTML =
-    '<img src="./image/.jpg" alt="別の表情" width="300">';
+    '<img src="./image/46984_0.jpg" alt="別の表情" width="300">';
 }
 
 function returnPhoto() {
